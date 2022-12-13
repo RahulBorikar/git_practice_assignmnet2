@@ -7,7 +7,7 @@ function prime(num){
             count++;
         } 
     }
-    if(count === 2){
+    if(count === 1){
         return true;
     }else{
         return false;
